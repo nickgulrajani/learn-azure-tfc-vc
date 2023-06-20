@@ -3,7 +3,7 @@ terraform {
     organization = "cdw-dash"
 
     workspaces {
-      name = "azure-tfc-training-labs"
+      name = "learn-azure-tfc-vc"
     }
   }
 }
